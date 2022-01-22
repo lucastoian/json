@@ -1,0 +1,73 @@
+{
+    "name": "Legendary Radio Homies #1",
+    "symbol": "RHLC",
+    "description": "Radioactive people contaminating the blockchain",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "radiolazyclub.com",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Crypto Farm Lime Evening"
+        },
+        {
+            "trait_type": "Radioactivity",
+            "value": "Radioactivity 5"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Radio Bodypc"
+        },
+        {
+            "trait_type": "Mask",
+            "value": "Radio Mask Eco Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Radio Eyes Sasuke"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Ninha Headband"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Baby Radio"
+        },
+        {
+            "trait_type": "Belt",
+            "value": "Belt Radio Kangaroo Twins"
+        }
+    ],
+    "collection": {
+        "name": "Radio Homies Lazy Club",
+        "family": "Radio Homies"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "image.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "DEVQ8kAcY9MvqtmXar5HHKD1jgqrLvKAkfUTdDBnUfVo",
+                "share": 70
+            },
+            {
+                "address": "LCAUNGwsGB9gq3eaoz64M2SWXCqrNt35CVwZhz2gWPp",
+                "share": 10
+            },
+            {
+                "address": "5q8DAAkA4hmAk4rHpuoziZx1NDdRomstPFVygUJxG1mf",
+                "share": 10
+            },
+            {
+                "address": "DVRKuG1TqniCebrkwbkxdqHXtov8YRDPaDwtuEYePKUf",
+                "share": 10
+            }
+        ]
+    }
+}
