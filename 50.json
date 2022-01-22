@@ -3,7 +3,7 @@
     "symbol": "RHLC",
     "description": "Radioactive people contaminating the blockchain",
     "seller_fee_basis_points": 1000,
-    "image": "image.png",
+    "image": "https://raw.githubusercontent.com/lucastoian/json/main/50.png",
     "external_url": "radiolazyclub.com",
     "attributes": [
         {
